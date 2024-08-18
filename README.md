@@ -1,6 +1,6 @@
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=ðŸ‘¸ðŸ»Alexa+WHATSAPP+BOT" alt="">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=👸🏻Alexa+WHATSAPP+BOT" alt="">
 
-<img src="http://" alt="Alexa.png" >
+
 
 <p><tbody>
 	
@@ -21,19 +21,19 @@
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
 
-<h3>Alexa Team ðŸ‘¸ðŸ»</h3>
+<h3>Alexa Team 🐣</h3>
 <table>
 <tbody>
 <tr>
-<td><a href=""><img src="https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg" width="100" height="100" alt="êœ±á´€á´…á´‡á´‡êœ±Êœá´€"></a></td>
+<td><a href=""><img src="https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg" width="100" height="100" alt="Sadeesha"></a></td>
 <td><a href=""><img src="https://i.ibb.co/chgBVvB/vihanga.jpg" width="100" height="100" alt="Vihanga"></a></td>
-<td><a href=""><img src="https://i.ibb.co/vqWHbDx/yasiru.png" width="100" height="100" alt="Êá´€êœ±ÉªÊ€á´œ"></a></td>
+<td><a href=""><img src="https://i.ibb.co/vqWHbDx/yasiru.png" width="100" height="100" alt="Yasiru"></a></td>
 											
 </tr>
 <tr>
-<td><a href="">êœ±á´€á´…á´‡á´‡êœ±Êœá´€ </a></br>(Founder)</td>
-<td><a href=""> Vihanga</br>(Co Admin)</td>
-<td><a href="">Êá´€êœ±ÉªÊ€á´œ</a></br>(Co-Admin)</td>
+<td><a href="">Sadeesha</a></br>(Developer)</td>
+<td><a href=""> Vihanga</br>(Co-Admin)</td>
+<td><a href=""> Yasiru</a></br>(Co-Admin)</td>
 											
 </tr>
 </tbody>
