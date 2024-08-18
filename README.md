@@ -27,13 +27,11 @@
 <tr>
 <td><a href=""><img src="https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg" width="100" height="100" alt="Sadeesha"></a></td>
 <td><a href=""><img src="https://i.ibb.co/chgBVvB/vihanga.jpg" width="100" height="100" alt="Vihanga"></a></td>
-<td><a href=""><img src="https://i.ibb.co/vqWHbDx/yasiru.png" width="100" height="100" alt="Yasiru"></a></td>
 											
 </tr>
 <tr>
 <td><a href="">Sadeesha</a></br>(Developer)</td>
 <td><a href=""> Vihanga</br>(Co-Admin)</td>
-<td><a href=""> Yasiru</a></br>(Co-Admin)</td>
 											
 </tr>
 </tbody>
