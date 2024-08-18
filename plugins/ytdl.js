@@ -1,3 +1,4 @@
+const config = require('../config')
 const {cmd , commands} = require('../command')
 const fg = require('api-dylux')
 const yts = require('yt-search')
@@ -27,16 +28,16 @@ _Views: ${data.views}_
 > Alexa BOT INC
 `
 
-await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
+await conn.sendMessage(from,{image:{url: data.thumbmail},caption:desc},{quoted:mek})
 
 //________Downlode Audio________
 
 let down = await fg.yta(url)
-let downloadUrl = down.dl_url
+let downlodUrl = down.dl_url
 
 //___________Send Audio__________
 
-await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
+await conn.sendMessage(from,{audio: {url:downlodUrl},mimetype:"audio/mpeg"},{quoted:mek})
 
 
 
@@ -44,4 +45,5 @@ await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{qu
     console.log(e)
     reply(`${e}`)
 }
-})
+}
+)
