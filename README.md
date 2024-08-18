@@ -17,7 +17,7 @@
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
 
 
-<h5>TOTAL WEB VIEWS ðŸ•Šï¸</h5>
+<h5>TOTAL WEB VIEWS 🌹</h5>
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
 
