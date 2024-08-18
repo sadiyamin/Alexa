@@ -1,0 +1,23 @@
+{
+  "name": "Alexa(main)",
+  "description": "Simple Whatsapp Bot.You Can Esy Deploy📲",
+  "logo": "Empty",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
+  "success_url": "/",
+
+  
+    "SESSION_ID": {
+      "description": "Put Your SESSION ID",
+      "required": false
+    },  
+  
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
+  
+  
+}
