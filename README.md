@@ -38,7 +38,7 @@
 </tr>
 
 <tr>
-	<td><img src="" width="100" height="100" alt="Nisitha"></td>
+	<td><img src="https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp" width="100" height="100" alt="Nisitha"></td>
 </tr>
 <tr>
 	<td>
