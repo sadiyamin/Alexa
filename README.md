@@ -32,9 +32,19 @@
 											
 </tr>
 <tr>
-<td><a href="">Sadeesha</a></br>(Developer)</td>
-<td><a href=""> Vihanga</br>(Co-Admin)</td>
+<td><h5>Sadeesha</br>(Developer)</h5></td>
+<td><h5> Vihanga</br>(Co-Admin)</h5></td>
 											
+</tr>
+
+<tr>
+	<td><img src="" width="100" height="100" alt="Nisitha"></td>
+</tr>
+<tr>
+	<td>
+		<h5>Nisitha<br>Group Supported</h5>
+	</td>
+</tr>
 </tr>
 </tbody>
 </table>
