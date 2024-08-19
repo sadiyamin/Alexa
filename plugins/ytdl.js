@@ -1,7 +1,11 @@
-const config = require('../config')
+// Alexa Whatsapp Bot....Created By Sadeesha
+// Don't Edit This Fill
+
 const {cmd , commands} = require('../command')
 const fg = require('api-dylux')
 const yts = require('yt-search')
+
+//______________________________________SONG-DOWNLODER_______________________________
 
 cmd({
     pattern: "song",
@@ -11,34 +15,88 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply("*Please give me a url or title*")
+if(!q) return reply("*Please give me a YT url or Title*")
 const search = await yts(q)
 const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*YOUTUBE SONG DOWNLODE*
+🎧 ALEXA SONG DOWNLODER 🎧
 
-_Title: ${data.title}_
-_Description: ${data.description}_
-_Time: ${data.timestamp}_
-_Ago: ${data.ago}_
-_Views: ${data.views}_
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-> Alexa BOT INC
+○ Title: ${data.title}
+
+○ Time: ${data.timestamp}
+
+○ Ago: ${data.ago}
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+> Created By Sadesha (Alexa)
 `
 
-await conn.sendMessage(from,{image:{url: data.thumbmail},caption:desc},{quoted:mek})
+await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
-//________Downlode Audio________
+//________________________________Downlode-Audio_______________________________________
 
 let down = await fg.yta(url)
-let downlodUrl = down.dl_url
+let downloadUrl = down.dl_url
 
-//___________Send Audio__________
+//________________________________Send-Audio_____________________________________________
 
-await conn.sendMessage(from,{audio: {url:downlodUrl},mimetype:"audio/mpeg"},{quoted:mek})
+await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
 
+}catch(e){
+    console.log(e)
+    reply(`${e}`)
+}
+}
+)
+
+//_________________________________VIDEO-DOWNLODER_____________________________________
+
+cmd({
+    pattern: "video",
+    desc: "downlode videos",
+    category: "downlode",
+    filename: __filename
+},
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+if(!q) return reply("*Please give me a YT url or Title*")
+const search = await yts(q)
+const data = search.videos[0];
+const url = data.url
+
+let desc = `
+🎬 ALEXA VIDEO DOWNLODER 🎬
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+○ Title: ${data.title}
+
+○ Time: ${data.timestamp}
+
+○ Ago: ${data.ago}
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+> Created By Sadesha (Alexa)
+`
+
+await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
+
+//________________________________Downlode-Video_______________________________________
+
+let down = await fg.yta(url)
+let downloadUrl = down.dl_url
+
+//________________________________Send-Video_____________________________________________
+
+await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
 
 
 }catch(e){
