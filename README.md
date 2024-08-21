@@ -1,7 +1,7 @@
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=👸🏻Alexa+WHATSAPP+BOT" alt="">
 
 
-<center><img src="https://i.ibb.co/z52R6XR/bg.jpg" width="250" height="250"></center>
+<center><img src="https://i.ibb.co/z52R6XR/bg.jpg" width="300" height="300"></center>
 
 <hr>
 
@@ -21,9 +21,6 @@
 <hr>
 <h5>Deploy 👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
-
-<hr>
-</tbody> 
 
 <hr>
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
