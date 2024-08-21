@@ -10,26 +10,33 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 
 let desc = `
-Hi User 🐣
-BOT CMD
+ *📚 Alexa Command Panel 📚*
 
-*.alive*
-*.menu*
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-DOWNLODER CMD
+_*📥 Download Command 📥*_
 
-*.song*
-*.video*
+.song
+.video
+.fb
+.tiktok
 
-Alexa Public Group
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4
+_*👸🏻Bot Command 👸🏻*_ 
 
-_Thank You Using Alexa 👸🏻_
+.alive
+.menu
 
-> Created By Sadeesha (Alexa)
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+> Thank you for using Alexa 💗
+> Created By Sadeesha 
+
+
+> Coming Soon Another Commands ⚒️
 `
-return await conn.sendMessage(from,{image: {url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg`},caption: desc},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/z52R6XR/bg.jpg`},caption: desc},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
