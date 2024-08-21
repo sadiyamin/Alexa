@@ -1,3 +1,6 @@
+//Alexa Whatsapp User Bot
+//Created BY Sadeesha
+
 var commands = [];
 
 function cmd(info, func) {
