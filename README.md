@@ -34,7 +34,7 @@
 
 <hr>
 
-
+<div align="center">
 <h3>Alexa Team 🐣</h3>
 <table>
 <tbody>
@@ -62,6 +62,7 @@
 </tr>
 </tbody>
 </table>
+</div>
 
 <h5>Thank You For Using Alexa 💗</h5>
 
@@ -70,3 +71,4 @@
 <h3>⚠️ Warning!</h3>
 
 <h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alpha Queen executives do not take responsibility. By setting up Alexa Bot you are considered to have assumed these responsibilities.</h5>
+<hr>
