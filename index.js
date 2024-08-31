@@ -70,7 +70,7 @@ const {
     console.log('Plugins installed successful ✅')
     console.log('Bot connected to whatsapp ✅')
     
-    let up = `Alexa Whatsapp Bot Connected Successfully ✅\n\nPREFIX: ${prefix}\nMODE: ${MODE}\nAUTO_READ_STATUS: ${AUTO_READ_STATUS}\n\n*Join Our Supported Group*\nhttps://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4\n\n*Alexa Updates Channels Chanel*\nhttps://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J\n\n> Thank you for using Alexa 💗\n> Created by Sadeesha`;
+    let up = `Alexa Whatsapp Bot Connected Successfully ✅\n\n_PREFIX:_ ${prefix}\n\n*Join Our Supported Group*\nhttps://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4\n\n*Alexa Updates Channels Chanel*\nhttps://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J\n\n> Thank you for using Alexa 💗\n> Created by Sadeesha`;
     
     conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/z52R6XR/bg.jpg` }, caption: up })
     
