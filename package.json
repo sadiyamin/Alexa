@@ -1,7 +1,7 @@
 {
-  "name": "yourbot",
+  "name": "alexa",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "Alexa WhatsApp bot created Sadeesha With using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
