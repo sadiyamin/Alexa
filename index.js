@@ -23,13 +23,13 @@ const {
     const ownerNumber = ['94779062397']
     
     //===================SESSION-AUTH============================
-    if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
+    if (!fs.existsSync(__dirname + '/session/creds.json')) {
     if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
     const sessdata = config.SESSION_ID
     const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
     filer.download((err, data) => {
     if(err) throw err
-    fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
+    fs.writeFile(__dirname + '/session/creds.json', data, () => {
     console.log("Session downloaded ✅")
     })})}
     
@@ -41,7 +41,7 @@ const {
     
     async function connectToWA() {
     console.log("Connecting wa bot 🧬...");
-    const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
+    const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
     var { version } = await fetchLatestBaileysVersion()
     
     const conn = makeWASocket({
@@ -70,7 +70,7 @@ const {
     console.log('Plugins installed successful ✅')
     console.log('Bot connected to whatsapp ✅')
     
-    let up = `Alexa Whatsapp Bot Connected Successfully ✅\n\n_PREFIX:_ ${prefix}\n\n*Join Our Supported Group*\nhttps://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4\n\n*Alexa Updates Channels Chanel*\nhttps://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J\n\n> Thank you for using Alexa 💗\n> Created by Sadeesha`;
+    let up = `Alexa Whatsapp Bot Connected Successfully ✅\n\n*PREFIX:${prefix}*\n\n*Join Our Supported Group*\nhttps://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4\n\n*Alexa Updates Channels Chanel*\nhttps://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J\n\n> Thank you for using Alexa 💗\n> Created by Sadeesha`;
     
     conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/z52R6XR/bg.jpg` }, caption: up })
     
