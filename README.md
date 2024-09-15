@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/z52R6XR/bg.jpg" width="300" height="300">
 </div>
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Drploy...;Thank+You+For+Using+Alexa..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
             alt="Typing">
 
 <hr>
@@ -25,7 +25,7 @@
 <h5>Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
 <hr>
-<h5>Deploy Free Worlflows 👇</h5>
+<h5>Deploy Free Workflows 👇</h5>
 
 ```
 name: Node.js CI
