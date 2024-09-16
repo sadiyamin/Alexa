@@ -21,6 +21,10 @@
 <h5>Get Your SESSION ID 👇</h5> 
 	
 <button><tr><a href="https://puny-lacee-sadiyamin-eab5bd74.koyeb.app/">Pair Code</a></tr></button>
+<br>
+<p>PAIR CODE is not working...but you can join our supported group and get your cread.json fill.Then Uplode In Session Folder.Now you can enjoy Alexa Bot</p>
+<h3>Supported Group link </h3>
+<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa Supported 👧</a>
 <hr>
 <h5>Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
