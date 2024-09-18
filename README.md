@@ -6,11 +6,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
             alt="Typing">
 
+<div align="center">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
+</div>
+
 <hr>
 
 			Alexa බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>How To Deploy </h3>
+
+<h5>First tap to Fork button and create new fork</h5>
 
 <h4>Following 👇</h4>
 <h1><a href="http://sadiyamin.github.io/Test">Alexa Official Web Site</a></h1>
@@ -21,8 +27,8 @@
 <h5>Get Your SESSION ID 👇</h5> 
 	
 <button><tr><a href="https://puny-lacee-sadiyamin-eab5bd74.koyeb.app/">Pair Code</a></tr></button>
-<br>
-<p>PAIR CODE is not working...but you can join our supported group and get your cread.json fill.Then Uplode In Session Folder.Now you can enjoy Alexa Bot</p>
+
+<h5>PAIR CODE is not working...but you can join our supported group and get your creads.json fill & you are uplode in session folder.Now you can deploy Alexa Bot</h5>
 <h3>Supported Group link </h3>
 <a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa Supported 👧</a>
 <hr>
@@ -104,6 +110,18 @@ jobs:
 </tr>
 </tbody>
 </table>
+</div>
+<div align="center">
+    
+| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
+|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
+| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
+
+| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
+|---------------------|---------------------|---------------------|
+| [![GitHub release](https://img.shields.io/github/release/PikaBotz/Anya_v2-Md.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
+
+
 </div>
 
 <h5>Thank You For Using Alexa 💗</h5>
