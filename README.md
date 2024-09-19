@@ -26,7 +26,10 @@
 	
 <h5>Get Your SESSION ID 👇</h5> 
 	
-<button><tr><a href="https://puny-lacee-sadiyamin-eab5bd74.koyeb.app/">Pair Code</a></tr></button>
+<button><tr><a href="https://intelligent-marysa-tharumin-c5a17a2e.koyeb.app/">Pair Code</a></tr></button>
+
+<h5>Now get your inbox and copy sessino id</h5>
+<h5>Now past config.js/SESSION_ID "past_copy_text"</h5>
 
 <h5>PAIR CODE is not working...but you can join our supported group and get your creads.json fill & you are uplode in session folder.Now you can deploy Alexa Bot</h5>
 <h3>Supported Group link </h3>
