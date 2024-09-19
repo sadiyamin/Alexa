@@ -87,23 +87,25 @@ jobs:
 <table>
 <tbody>
 <tr>
-<td><a href=""><img src="https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg" width="100" height="100" alt="Sadeesha"></a></td>
-<td><a href=""><img src="https://i.ibb.co/chgBVvB/vihanga.jpg" width="100" height="100" alt="Vihanga"></a></td>
+<td><img src="https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg" width="100" height="100" alt="Sadeesha"></a></td>
+<td><img src="https://i.ibb.co/chgBVvB/vihanga.jpg" width="100" height="100" alt="Vihanga"></a></td>
+<td><img src="https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp" width="100" height="100" alt="Nisitha"></td>
 											
 </tr>
 <tr>
 <td><h5>Sadeesha</br>(Developer)</h5></td>
 <td><h5> Vihanga</br>(Co-Admin)</h5></td>
+<td><h5>Nisitha<br>Group Supported</h5></td>
 											
 </tr>
 
 <tr>
-	<td><img src="https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp" width="100" height="100" alt="Nisitha"></td>
+	<td><img src="https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg" width="100" height="100" alt="Maneth"></td>
 	<td><img src="http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp" width="100" height="100" alt="Imalshan"></td>
 </tr>
 <tr>
 	<td>
-		<h5>Nisitha<br>Group Supported</h5>
+		<td><h5>Maneth<br>(Public<br>Supported)</h5></td>
 		<td><h5>Imalshan<br>(Graphics<br>Designer)</h5></td>
 	</td>
 </tr>
