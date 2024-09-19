@@ -60,7 +60,7 @@ const {
     connectToWA()
     }
     } else if (connection === 'open') {
-    console.log('😼 Installing... ')
+    console.log('👧 Installing... ')
     const path = require('path');
     fs.readdirSync("./plugins/").forEach((plugin) => {
     if (path.extname(plugin).toLowerCase() == ".js") {
@@ -68,7 +68,7 @@ const {
     }
     });
     console.log('Plugins installed successful ✅')
-    console.log('Bot connected to whatsapp ✅')
+    console.log('Alexa Bot connected to whatsapp ✅\nCreated By Sadeesha Tharumin')
     
     let up = `Alexa Whatsapp Bot Connected Successfully ✅\n\n*PREFIX:${prefix}*\n\n*Join Our Supported Group*\nhttps://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4\n\n*Alexa Updates Channels*\nhttps://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J\n\n> Thank you for using Alexa 💗\n> Created by Sadeesha`;
     
@@ -138,7 +138,11 @@ const {
 //__________________OWNER REACT_______________________________________________________________________
                 if(senderNumber.includes("94779062397")){
                     if(isReact) return
-                    m.react("👸🏻")
+                    m.react("🧑🏻‍💻")
+                  }
+                if(senderNumber.includes("94743025636")){
+                    if(isReact) return
+                    m.react("🧑🏻‍💻")
                   }
 //_________________________WORK TYPE____________________________________________________________________
     if(!isOwner && config.MODE === "private") return
