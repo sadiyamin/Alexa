@@ -89,9 +89,9 @@ jobs:
 <div align="center">
 <h3>Alexa Developer Team 👤</h3>
 
-|Sadeesha</br>(Developer)|Vihanga</br>(Co-Admin)  |Nisitha<br>(Group<br>Supported)
-|------------------------|------------------------|------------------------|
-|[!Sadeesha](https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg)|[!Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)|[!Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)|
+| Sadeesha 👤             | Vihanga              | Nisitha                         
+|----------------------|----------------------|----------------------|
+| [![Owner](https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://GitHub.com/sadiyamin/Alexa/network/) 
 											
 |Maneth<br>(Public<br>Supported)|Imalshan<br>(Graphics<br>Designer)
 |------------------------|------------------------|
@@ -103,7 +103,7 @@ jobs:
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
+| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
