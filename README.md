@@ -95,6 +95,8 @@ jobs:
 
 </div>
 
+<hr>
+
 <div align="center">
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
