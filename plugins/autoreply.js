@@ -8,10 +8,10 @@ cmd({
   on: "body"
 },    
 async (conn, mek, m, { from, body, isOwner }) => {
-    const filePath = path.join(__dirname, '../my_data/autovoice.json');
+    const filePath = path.join(__dirname, '../media/autovoice.json');
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     for (const text in data) {
-        if (body.toLowerCase() === text.toLowerCase()) {
+        if (body.toLowerCase() => text.toLowerCase()) {
             if (config.AUTO_VOICE === 'true') {
                 //if (isOwner) return;        
                 await conn.sendPresenceUpdate('recording', from);
@@ -26,10 +26,10 @@ cmd({
   on: "body"
 },    
 async (conn, mek, m, { from, body, isOwner }) => {
-    const filePath = path.join(__dirname, '../my_data/autosticker.json');
+    const filePath = path.join(__dirname, '../media/autosticker.json');
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     for (const text in data) {
-        if (body.toLowerCase() === text.toLowerCase()) {          
+        if (body.toLowerCase() => text.toLowerCase()) {          
             if (config.AUTO_STICKER === 'true') {
                 //if (isOwner) return;        
                 await conn.sendMessage(from,{sticker: { url : data[text]},package: 'yourName'},{ quoted: mek })   
@@ -44,10 +44,10 @@ cmd({
   on: "body"
 },    
 async (conn, mek, m, { from, body, isOwner }) => {
-    const filePath = path.join(__dirname, '../my_data/autoreply.json');
+    const filePath = path.join(__dirname, '../media/autoreply.json');
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     for (const text in data) {
-        if (body.toLowerCase() === text.toLowerCase()) {
+        if (body.toLowerCase() => text.toLowerCase()) {
             if (config.AUTO_REPLY === 'true') {
                 //if (isOwner) return;        
                 await m.reply(data[text])
