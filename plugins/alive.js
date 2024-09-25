@@ -11,33 +11,31 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 
 let desc = `
-*【🌸 Hello ${pushname}*】
+*Hi 🍄* ${pushname}
 
- _*I am Alexa Whatsapp User Bot 👸🏻*_
+┌────────────────
+│❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
+│❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
+│❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
+│❖ *ᴏᴡɴᴇʀ :* _Sadeesha Tharumin_
+└────────────────
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿🪶
-| ●「 _⌛Uptime_ : _Error_」
-| ●「 _📟Ram_ : _Error_」
-| ●「 _⚙️Developer_ : _Sadeesha Tharumin_」
-＿＿＿＿＿＿＿＿＿＿＿＿＿🪶
+*I'm Alive Now 👸🏻*
 
-_🧸 Alexa Official Web Site_
-https://sadiyamin.github.io/|||Test
+┌────────────────
+│ _*Alexa Official Web Site*_
+│ https://sadiyamin.github.io/|||Test
+└────────────────
+┌────────────────
+│ _*Alexa Github Repo*_
+│ http://github.com/sadiyamin/Alexa 
+└────────────────
+┌────────────────
+│ _*Alexa Public Group*_
+│ https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4
+└────────────────
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿🪶
-
-_🎈 Alexa Github Repo_
-http://github.com/sadiyamin/Alexa 
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿🪶
-
-_🛖 Alexa Public Group_
-https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿🪶
-
-> Thank You Using Alexa 💗
-> Created By Sadeesha
+> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ  🧑🏻‍💻*
 `
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/z52R6XR/bg.jpg`},caption: desc},{quoted: mek})
 
