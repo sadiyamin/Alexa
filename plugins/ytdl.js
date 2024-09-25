@@ -11,6 +11,7 @@ cmd({
     pattern: "song",
     desc: "downlode songs",
     category: "downlode",
+    react: "🎵",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
@@ -26,18 +27,20 @@ _*🎧 ＳＯＮＧ ＤＯＷＮＬＯＤＥＲ 🎧*_
 *──────────────────*
 
 ┌────────────────
-│❖ *Title:* _${data.title}_
+│✑ *Title:* _${data.title}_
 │
-│❖ *Time:* _${data.timestamp}_
+│✑ *Time:* _${data.timestamp}_
 │
-│❖ *Ago:* _${data.ago}_
+│✑ *Ago:* _${data.ago}_
+│
+│✑ *Views:* _${data.views}_
 └────────────────
 
 *┌────────────────*
 _📤ᴜᴘʟᴏᴅɪɴɢ ʏᴏᴜʀ ᴀᴜᴅɪᴏ ꜰɪʟʟ📤_
 *└────────────────*
 
-> ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ
+> *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ 🧑🏻‍💻*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -64,6 +67,7 @@ cmd({
     pattern: "video",
     desc: "downlode videos",
     category: "downlode",
+    react: "🎬",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
@@ -79,30 +83,32 @@ _*🎬 VIDEO ＤＯＷＮＬＯＤＥＲ 🎬*_
 *──────────────────*
 
 ┌────────────────
-│❖ *Title:* _${data.title}_
+│✑ *Title:* _${data.title}_
 │
-│❖ *Time:* _${data.timestamp}_
+│✑ *Time:* _${data.timestamp}_
 │
-│❖ *Ago:* _${data.ago}_
+│✑ *Ago:* _${data.ago}_
+│
+│✑ *Views:* _${data.views}_
 └────────────────
 
 *┌────────────────*
 _📤ᴜᴘʟᴏᴅɪɴɢ ʏᴏᴜʀ Video ꜰɪʟʟ📤_
 *└────────────────*
 
-> ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ 
+> *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ 🧑🏻‍💻*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
 //________________________________Downlode-Video_______________________________________
 
-let down = await fg.yta(url)
+let down = await fg.ytv(url)
 let downloadUrl = down.dl_url
 
 //________________________________Send-Video_____________________________________________
 
-await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
+await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4",caption:"*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*"},{quoted:mek})
 
 
 }catch(e){
