@@ -6,6 +6,7 @@ cmd({
     pattern: "menu",
     desc: "menu",
     category: "main",
+    react: "📚",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
@@ -98,7 +99,7 @@ let desc = `
 
 > *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ 🧑🏻‍💻*
 `
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/z52R6XR/bg.jpg`},caption: desc},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/wR8GBT2/20241002-093136.jpg`},caption: desc},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
