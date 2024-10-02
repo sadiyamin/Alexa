@@ -91,7 +91,7 @@ jobs:
 
 | Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Maneth 👤             | Imalshan 👤             |                       
 |----------------------|----------------------|----------------------|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Maneth](https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg)](https://github.com/sadiyamin/Alexa/) | [![Imalshan](http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp)](https://github.com/sadiyamin/Alexa)
+| [![Owner](https://i.ibb.co/jGDzq5w/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Maneth](https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg)](https://github.com/sadiyamin/Alexa/) | [![Imalshan](http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp)](https://github.com/sadiyamin/Alexa)
 
 </div>
 
