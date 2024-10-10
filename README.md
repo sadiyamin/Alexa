@@ -27,7 +27,7 @@
 <h3>Get Your SESSION ID 👇</h3> 
 <h5>SESSION_ID Error Fixed ✅</h5>
 	
-<button><tr><a href="https://pair-web-public.koyeb.app/">Pair Code</a></tr></button>
+<button><tr><a href="https://manu-md-bot-pair-web.onrender.com/pair">Pair Code</a></tr></button>
 
 <h5>Now get your inbox and copy sessino id</h5>
 <h5>Now past session id in (config.js/SESSION_ID "past_copy_text")</h5>
