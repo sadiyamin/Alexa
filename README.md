@@ -24,22 +24,21 @@
 
 <hr>
 	
-<h3>Get Your SESSION ID 👇</h3> 
-<h5>SESSION_ID Error Fixed ✅</h5>
+<h3>🌸 Get Your SESSION ID 👇</h3> 
+<h5>🌸 SESSION_ID Error Fixed ✅</h5>
 	
-<button><tr><a href="https://manu-md-bot-pair-web.onrender.com/pair">Pair Code</a></tr></button>
+<button><tr><a href="https://pair-web-public.koyeb.app/">🌸 SESSION_ID</a></tr></button>
 
-<h5>Now get your inbox and copy sessino id</h5>
-<h5>Now past session id in (config.js/SESSION_ID "past_copy_text")</h5>
+<h5>🌸 Now get your inbox and copy sessino id</h5>
+<h5>🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
 
-<h5>PAIR CODE is not working...but you can join our supported group and get your creads.json fill & you are uplode in session folder.Now you can deploy Alexa Bot</h5>
-<h3>Supported Group link </h3>
+<h3>🌸 Supported Group link </h3>
 <a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa Supported 👧</a>
 <hr>
-<h5>Deploy Free Koyeb👇</h5>
+<h5>🌸 Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
 <hr>
-<h5>Deploy Free Workflows 👇</h5>
+<h5>🌸 Deploy Free Workflows 👇</h5>
 
 ```
 name: Node.js CI
@@ -105,7 +104,7 @@ jobs:
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/PikaBotz/Anya_v2-Md.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
+| [![GitHub release](https://img.shields.io/github/release/sadiyamin/Alexa.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
 
 
 </div>
