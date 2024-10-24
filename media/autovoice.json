@@ -3,11 +3,18 @@
   "mk":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/mk.mp3",
   "gm":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/GM(tbg).mp3",
   "gn":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/Gn(tbg).mp3",
-  "hm":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/Hmm(tbg).mp3",
-  "oya kawada":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/oya%20kawada.mp3",
+  "hm":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/hm.mp3",
+  "hmm":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/hm.mp3",
+  "mm":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/hm.mp3",
+  "oya kawada":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/oya_kawada.mp3",
+  "kawada":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/oya_kawada.mp3",
+  "kawada oya":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/oya_kawada.mp3",
   "ponnaya":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/Ponnaya(tbg).mp3",
   "kawa":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/kawa.mp3",
   "kellek ona":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/kellek%20oni.mp3",
   "puca":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/wesi(tbg).mp3",
-  ".alive":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/untitled.mp3"
-}
+  ".alive":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/menu.mp3",
+  ".menu":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/menu.mp3",
+  "I love you":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/I_love_you.mp3",
+  "love":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/I_love_you.mp3",
+  "love you":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/I_love_you.mp3"
