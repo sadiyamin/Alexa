@@ -88,8 +88,8 @@ jobs:
 <div align="center">
 <h3>Alexa Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Zoro 👤             |                       
-|----------------------|----------------------|----------------------|----------------------|
+| Sadeesha 👤             | Vihanga 👤            |                        
+|----------------------|----------------------|
 | [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 </div>
 <hr>
