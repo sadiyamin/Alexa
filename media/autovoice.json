@@ -3,7 +3,8 @@
   "mk":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/mk.mp3",
   "gm":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/good_morning.mp3",
   "good morning":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/good_morning.mp3",
-  "gn":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/Gn(tbg).mp3",
+  "gn":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/good_night.mp3",
+  "good night":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/good_night.mp3",
   "hm":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/hm.mp3",
   "hmm":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/hm.mp3",
   "mm":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/hm.mp3",
@@ -24,6 +25,6 @@
   "pako":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3",  
   "hutto":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3",
   "hutta":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3",
-  "pakaya":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3",
+  "cariya":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3",
   "utta":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3"
 }
