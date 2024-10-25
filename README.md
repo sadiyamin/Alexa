@@ -14,12 +14,12 @@
 
 			Alexa බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
-<h3>How To Deploy </h3>
+<h3>🌸 How To Deploy </h3>
 
-<h5>First tap to Fork button and create new fork</h5>
+<h5>🌸 First tap to Fork button and create new fork</h5>
 
-<h4>Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">Alexa Official Web Site</a></h1>
+<h4>🌸 Following 👇</h4>
+<h1><a href="http://sadiyamin.github.io/Test">🌸 Alexa Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -88,12 +88,18 @@ jobs:
 <div align="center">
 <h3>Alexa Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Maneth 👤             | Imalshan 👤             |                       
-|----------------------|----------------------|----------------------|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Maneth](https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg)](https://github.com/sadiyamin/Alexa/) | [![Imalshan](http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp)](https://github.com/sadiyamin/Alexa)
+| Sadeesha 👤             | Vihanga 👤            |                        
+|----------------------|----------------------|
+| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+</div>
+<hr>
+<div align="center">
+	
+| Nisitha 👤             | Zoro 👤             |
+|----------------------|----------------------|
+| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Zoro](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
 
 </div>
-
 <hr>
 
 <div align="center">
@@ -115,5 +121,5 @@ jobs:
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alpha Queen executives do not take responsibility. By setting up Alexa Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alexa executives do not take responsibility. By setting up Alexa Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
