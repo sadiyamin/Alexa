@@ -1,6 +1,6 @@
 <div align="center">
-	<h3>👸🏻Alexa Whatsapp Bot👸🏻</h3>
-<img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="150">
+	<h3>👧🏻 Alexa Whatsapp Bot 👧🏻</h3>
+<img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="190">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
@@ -80,13 +80,13 @@ jobs:
 <hr>
 
 
-<h5>TOTAL WEB VIEWS 🌹</h5>
+<h5>🌸 TOTAL WEB VIEWS</h5>
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
 <hr>
 
 <div align="center">
-<h3>Alexa Developer Team 👤</h3>
+<h3>🌸 Alexa Developer Team 👤</h3>
 
 | Sadeesha 👤             | Vihanga 👤            |                        
 |----------------------|----------------------|
