@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>👸🏻Alexa Whatsapp Bot👸🏻</h3>
-<img src="https://i.ibb.co/rMYDLWR/20241002-095000.jpg" width="300" height="300">
+<img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="300">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
@@ -95,9 +95,9 @@ jobs:
 <hr>
 <div align="center">
 	
-| Nisitha 👤             | Zoro 👤             |
+| Nisitha 👤             | Sadeepa 👤             |
 |----------------------|----------------------|
-| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Zoro](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
+| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
 
 </div>
 <hr>
