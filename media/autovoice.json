@@ -1,5 +1,5 @@
 {
-  "hi":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/hi.mp3",
+  "hi":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/hi.mp3",
   "mk":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/mk.mp3",
   "gm":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/good_morning.mp3",
   "good morning":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/good_morning.mp3",
@@ -15,8 +15,8 @@
   "kawa":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/kawa.mp3",
   "kellek ona":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/kellek%20oni.mp3",
   "puca":"https://github.com/VajiraTech/IZUMI-AUTO-VOICER/raw/main/wesi(tbg).mp3",
-  ".alive":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/menu.mp3",
-  ".menu":"https://github.com/tharumin/Alexa_Voice/raw/refs/heads/main/menu.mp3",
+  ".alive":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3",
+  ".menu":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3",
   "I love you":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/i_love_you.mp3",
   "love":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/i_love_you.mp3",
   "love you":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/i_love_you.mp3",
