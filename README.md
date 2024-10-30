@@ -7,7 +7,8 @@
             alt="Typing">
 
 <div align="center">
-	<img src="" width="300" height="150" alt="qadeer">
+	<img src="https://i.ibb.co/m063vhJ/20241009-162851.jpg
+" width="300" height="150" alt="qadeer">
 </div>
 
 <hr>
