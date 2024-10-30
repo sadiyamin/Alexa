@@ -7,7 +7,7 @@
             alt="Typing">
 
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="qadeer">
 </div>
 
 <hr>
@@ -19,7 +19,7 @@
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">🌸 Coder Official Web Site</a></h1>
+<h1><a href="https://whatsapp.com/channel/0029Vaklu5f9mrGeyRNmrQ38">🌸 Coder Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -33,10 +33,10 @@
 <h5>🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa Supported 👧</a>
+<a href="https://whatsapp.com/channel/0029Vaklu5f9mrGeyRNmrQ38">Join Qadeer Supported 👧</a>
 <hr>
 <h5>🌸 Deploy Free Koyeb👇</h5>
-<a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
+<a href="http://koyeb.com" ><img src="https://i.ibb.co/bNM8HgG/khan.jpg width="50" height="25"></a>
 <hr>
 <h5>🌸 Deploy Free Workflows 👇</h5>
 
