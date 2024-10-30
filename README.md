@@ -39,7 +39,7 @@
 <a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
 <hr>
 
- <details> 🌸 DEPLOY ONLY PAY 🌸
+ <details close>🌸 DEPLOY ONLY PAY 🌸
 1.  #### DEPLOY IN HEROKU 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
@@ -78,7 +78,7 @@
 
 --------
 </details>
-<details>  🌸 DEPLOY IN FREE 🌸
+<details close>🌸 DEPLOY IN FREE 🌸
 <h5>🌸 Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
 <hr>
