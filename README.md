@@ -76,7 +76,7 @@ jobs:
       run: npm start
 ```
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Qadeer Khan" alt="">
 <hr>
 
 
@@ -121,5 +121,5 @@ jobs:
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alexa executives do not take responsibility. By setting up Alexa Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alexa executives do not take responsibility. By setting up Qadeer Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
