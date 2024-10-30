@@ -37,7 +37,7 @@
 <a href="https://whatsapp.com/channel/0029Vaklu5f9mrGeyRNmrQ38">Join Qadeer Supported 👧</a>
 <hr>
 <h5>🌸 Deploy Free Koyeb👇</h5>
-<a href="http://koyeb.com" ><img src="https://i.ibb.co/bNM8HgG/khan.jpg width="50" height="25"></a>
+<a href="http://koyeb.com" ><img src="https://i.ibb.co/bNM8HgG/khan.jpg width="250" height="125"></a>
 <hr>
 <h5>🌸 Deploy Free Workflows 👇</h5>
 
