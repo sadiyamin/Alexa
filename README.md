@@ -1,9 +1,9 @@
 <div align="center">
-	<h3>👧🏻 Alexa Whatsapp Bot 👧🏻</h3>
-<img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="190">
+	<h3>👧🏻 Qadeer Whatsapp Bot 👧🏻</h3>
+<img src="https://i.ibb.co/bNM8HgG/khan.jpg" width="300" height="190">
 </div>
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Qadeer...;Created+by+Qadeer...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Qadeer..."
             alt="Typing">
 
 <div align="center">
@@ -12,14 +12,14 @@
 
 <hr>
 
-			Alexa බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			Qadeer bot is a user bot for WhatsApp that allows you to perform many tasks.  This is not an open source project.  This is just a project that allows you to deploy a bot
        
 <h3>🌸 How To Deploy </h3>
 
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">🌸 Alexa Official Web Site</a></h1>
+<h1><a href="http://sadiyamin.github.io/Test">🌸 Coder Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -86,7 +86,7 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 Alexa Developer Team 👤</h3>
+<h3>🌸 Qadeer Developer Team 👤</h3>
 
 | Sadeesha 👤             | Vihanga 👤            |                        
 |----------------------|----------------------|
@@ -115,7 +115,7 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Alexa 💗</h5>
+<h5>Thank You For Using Qadeer 💗</h5>
 
 <hr>
 
