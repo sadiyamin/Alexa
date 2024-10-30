@@ -6,8 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Qadeer...;Created+by+Qadeer...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Qadeer..."
             alt="Typing">
 
-<div align="center">
-	<img src="https://i.ibb.co/hmG6d1g/IMG-20240812-182702.png" width="380" height="220" alt="qadeer">
 </div>
 
 <hr>
