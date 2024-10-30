@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>👧🏻 Qadeer Whatsapp Bot 👧🏻</h3>
-<img src="https://i.ibb.co/bNM8HgG/khan.jpg" width="300" height="190">
+<img src="https://i.ibb.co/bNM8HgG/khan.jpg" width="500" height="280">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Qadeer...;Created+by+Qadeer...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Qadeer..."
@@ -8,7 +8,7 @@
 
 <div align="center">
 	<img src="https://i.ibb.co/m063vhJ/20241009-162851.jpg
-" width="300" height="150" alt="qadeer">
+" width="380" height="220" alt="qadeer">
 </div>
 
 <hr>
