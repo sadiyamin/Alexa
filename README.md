@@ -7,7 +7,7 @@
             alt="Typing">
 
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="qadeer">
+	<img src="" width="300" height="150" alt="qadeer">
 </div>
 
 <hr>
@@ -92,14 +92,7 @@ jobs:
 |----------------------|----------------------|
 | [![Owner](https://i.ibb.co/Db9t6Gf/r.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/SrfgZZR/20240618-111737.jpg")](https://github.com/sadiyamin/Alexa)
 </div>
-<hr>
-<div align="center">
-	
-| Nisitha 👤             | Sadeepa 👤             |
-|----------------------|----------------------|
-| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
 
-</div>
 <hr>
 
 <div align="center">
