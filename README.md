@@ -90,7 +90,7 @@ jobs:
 
 | Sadeesha 👤             | Vihanga 👤            |                        
 |----------------------|----------------------|
-| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+| [![Owner](https://i.ibb.co/Db9t6Gf/r.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/SrfgZZR/20240618-111737.jpg")](https://github.com/sadiyamin/Alexa)
 </div>
 <hr>
 <div align="center">
@@ -106,7 +106,7 @@ jobs:
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
+| [![Owner](https://img.shields.io/badge/Author-Qadeer-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Qadeer-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
