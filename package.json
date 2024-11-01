@@ -26,6 +26,7 @@
     "yt-search": "2.11.1",
     "api-dylux": "1.8.5",
     "google-tts-api":"2.0.2",
-    "wa-sticker-formatter":"4.4.4"
+    "wa-sticker-formatter":"4.4.4",
+    "gifted-dls":"1.2.2"
   }
 }
