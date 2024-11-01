@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👧🏻 Alexa Whatsapp Bot 👧🏻</h3>
+	<h3>👧🏻 Tikka Whatsapp Bot 👧🏻</h3>
 <img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="190">
 </div>
 <hr>
