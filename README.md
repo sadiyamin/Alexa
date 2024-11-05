@@ -27,7 +27,7 @@
 <h3>🌸 Get Your SESSION ID 👇</h3> 
 <h5>🌸 SESSION_ID Error Fixed ✅</h5>
 	
-<button><tr><a href="https://intelligent-marysa-tharumin-c5a17a2e.koyeb.app">🌸 SESSION_ID</a></tr></button>
+<button><tr><a href="https://promising-tabbitha-tharumin-fe004ce5.koyeb.app/">🌸 SESSION_ID</a></tr></button>
 
 <h5>🌸 Now get your inbox and copy sessino id</h5>
 <h5>🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
