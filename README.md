@@ -25,12 +25,11 @@
 <hr>
 	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
-<h5>🌸 SESSION_ID Error Fixed ✅</h5>
-	
-<button><tr><a href="https://promising-tabbitha-tharumin-fe004ce5.koyeb.app/">🌸 SESSION_ID</a></tr></button>
+<h5>🌸 SESSION_ID IS NOT WORK ❌</h5>
+JOIN OUR CHANEL TO GET YOUR SESSION_ID
+(SESSION_ID ලබා ගැනීමට අපගේ සමූහයට එකතු වන්න)
+<button><tr><a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">🌸 JOIN 🌸</a></tr></button>
 
-<h5>🌸 Now get your inbox and copy sessino id</h5>
-<h5>🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
 
 <h3>🌸 Supported Group link </h3>
 <a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
