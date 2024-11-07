@@ -26,11 +26,13 @@
 	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
 <h5>🌸 SESSION_ID Error Fixed ✅</h5>
+
 Click the SESSION_ID Button
 (SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)
 <button><tr><a href="https://express-pairing-code2-1.onrender.com">🌸 SESSION_ID 🌸</a></tr></button>
-
+<br>
 🌸 Now get your inbox and copy sessino id
+<br>
 🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")
 
 <h3>🌸 Supported Group link </h3>
