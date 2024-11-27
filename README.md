@@ -24,15 +24,14 @@
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<p><tbody>
-
-<hr>
-	
+<hr>	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
-<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> <br>
+<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
+<br><br>
+<div align="center">
 <button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸</a></tr></button>
-
+</div>
 *🌸 Now get your inbox and copy sessino id*
 
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
@@ -182,9 +181,11 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD Developer Team 👤</h3>
 
+| SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
+|---------------------|---------------------|---------------------|
 [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
-----|----|----|
-Sadeesha | Vihanga | Zoro |
+|---------------------|---------------------|---------------------|
+| DEVELOPER | MODULE CREATE | BUG TESTER |
 </div>
 <hr>
 
