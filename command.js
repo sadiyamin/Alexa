@@ -1,4 +1,4 @@
-//Alexa Whatsapp User Bot
+//Lara-MD Whatsapp User Bot
 //Created BY Sadeesha
 
 var commands = [];
