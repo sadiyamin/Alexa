@@ -24,11 +24,9 @@
 <hr>
 	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
-
 <h4>Click the SESSION_ID Button</h4>
-
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> <br>
-<button><tr><a href="https://express-pairing-code2-1.onrender.com">🌸 SESSION_ID 🌸</a></tr></button>
+<button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸</a></tr></button>
 
 *🌸 Now get your inbox and copy sessino id*
 
