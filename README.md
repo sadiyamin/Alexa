@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/7rzBcxq/20241127-140559.jpg" width="300" height="190">
+<img src="https://i.ibb.co/GQ6JdpF/20241127-133421.jpg" width="300" height="190">
 </div>
 <div align="center">
 </p>
@@ -28,10 +28,11 @@
 <h3>🌸 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
-<br><br>
+<br>
 <div align="center">
 <button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸</a></tr></button>
 </div>
+<br>
 *🌸 Now get your inbox and copy sessino id*
 
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
