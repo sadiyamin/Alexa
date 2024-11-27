@@ -1,9 +1,9 @@
 <div align="center">
 	<h3>👧🏻 Alexa Whatsapp Bot 👧🏻</h3>
-<img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="190">
+<img src="https://i.ibb.co/7rzBcxq/20241127-140559.jpg" width="300" height="190">
 </div>
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
             alt="Typing">
 
 <div align="center">
@@ -12,20 +12,18 @@
 
 <hr>
 
-			Alexa බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>🌸 How To Deploy </h3>
 
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">🌸 Alexa Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
 	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
-<h5>🌸 SESSION_ID Error Fixed ✅</h5>
 
 <h4>Click the SESSION_ID Button</h4>
 
@@ -39,7 +37,7 @@
 <h3>🌸 Supported Group link </h3>
 <a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
 <hr>
-<h3>🌸 Alexa updates chanels </h3>
+<h3>🌸 Lara updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
 <hr>
 
@@ -179,7 +177,7 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 Alexa Developer Team 👤</h3>
+<h3>🌸 Lara-MD Developer Team 👤</h3>
 
 | Sadeesha 👤             | Vihanga 👤            |                        
 |----------------------|----------------------|
@@ -208,11 +206,11 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Alexa 💗</h5>
+<h5>Thank You For Using Lara-MD 💗</h5>
 
 <hr>
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alexa executives do not take responsibility. By setting up Alexa Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up Lara-MD Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
