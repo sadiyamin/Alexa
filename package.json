@@ -1,12 +1,12 @@
 {
-  "name": "alexa",
+  "name": "lara",
   "version": "1.0.0",
-  "description": "Alexa WhatsApp bot created Sadeesha With using Node.js",
+  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name lara",
+    "stop": "pm2 stop lara",
+    "restart": "pm2 restart lara"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
@@ -27,6 +27,10 @@
     "api-dylux": "1.8.5",
     "google-tts-api":"2.0.2",
     "wa-sticker-formatter":"4.4.4",
-    "ruhend-scraper":"8.0.3"
+    "ruhend-scraper":"8.0.3",
+    "child_process":"1.0.2",
+    "@mrnima/tiktok-downloader":"1.0.0",
+    "@mrnima/facebook-downloader":"1.0.0",
+    "mrnima-moviedl":"1.0.0"
   }
 }
