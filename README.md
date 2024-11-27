@@ -1,7 +1,8 @@
 <div align="center">
-	<h3>👧🏻 LARA-MD Whatsapp Bot 👧🏻</h3>
+	<h3>👧🏻 LARA-MD WHATSAPP BOT 👧🏻</h3>
 <img src="https://i.ibb.co/7rzBcxq/20241127-140559.jpg" width="300" height="190">
 </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADEESHA+LARA-MD+WHATSAPP+BOT)](https://git.io/typing-svg)
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
             alt="Typing">
@@ -177,18 +178,14 @@ jobs:
 <div align="center">
 <h3>🌸 Lara-MD Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            |                        
-|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
-</div>
-<hr>
-<div align="center">
-	
-| Nisitha 👤             | Sadeepa 👤             |
-|----------------------|----------------------|
-| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
+| Sadeesha 👤             | Vihanga 👤            |  Nisitha 👤             | Sadeepa 👤             |
+              
+|----|----|----|----|
+| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
 
 </div>
+<hr>
+
 <hr>
 
 <div align="center">
