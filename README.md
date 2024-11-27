@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="260" height="190">
+<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
 </div>
 <div align="center">
 </p>
@@ -185,8 +185,7 @@ jobs:
 | SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
 |---------------------|---------------------|---------------------|
 [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
-|---------------------|---------------------|---------------------|
-| DEVELOPER | MODULE CREATE | BUG TESTER |
+| DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
 </div>
 <hr>
 
