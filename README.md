@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👧🏻 LARA-MD WHATSAPP BOT 👧🏻</h3>
+	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
 <img src="https://i.ibb.co/7rzBcxq/20241127-140559.jpg" width="300" height="190">
 </div>
 <div align="center">
@@ -182,9 +182,9 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD Developer Team 👤</h3>
 
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) | [![Hi]] | [![Hi]]
-----|----|----|----|----
-Sadeesha | Vihanga | Zoro
+[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
+----|----|----|
+Sadeesha | Vihanga | Zoro |
 </div>
 <hr>
 
