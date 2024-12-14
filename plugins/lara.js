@@ -966,13 +966,26 @@ https://m.youtube.com/channel/UC7473CyG_w74rHZl-uQA64g
 
 > Lααɾα-ᴍᴅ ✻
 `
+await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3`},mimetype: 'audio/mpeg',
+        contextInfo: {
+                externalAdReply: {
+                        title: 'ꜱᴀᴅᴇᴇꜱʜᴀ ᴛʜᴀʀᴜᴍɪɴ',
+                        body: 'Lααɾα-ᴍᴅ ✻',
+                        mediaType: 1,
+                        sourceUrl: 'https://github.com/sadiyamin',
+                        thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
+                        renderLargerThumbnail: true,
+                        showAdAttribution: true
+                }
+            }
+        }, { quoted: mek });
 
       const sentMsg = await conn.sendMessage(from,{image: {url: `https://i.ibb.co/7rzBcxq/20241127-140559.jpg`},caption: online,
         contextInfo: {
                 mentionedJid: ['94717775628@s.whatsapp.net'], // specify mentioned JID(s) if any
                 groupMentions: [],
-                forwardingScore: 999,
-                isForwarded: false,
+                forwardingScore: 1,
+                isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363299978149557@newsletter',
                     newsletterName: "LARA 𝐌𝐃",
@@ -983,25 +996,12 @@ https://m.youtube.com/channel/UC7473CyG_w74rHZl-uQA64g
                     body: 'LARA 𝐌𝐃',
                     mediaType: 1,
                     sourceUrl: "https://github.com/sadiyamin",
-                    thumbnailUrl: 'https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg', // This should match the image URL provided above
-                    renderLargerThumbnail: false,
+                    thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
+                    renderLargerThumbnail: true,
                     showAdAttribution: true
                 }
             }
           });
-                await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3`},mimetype: 'audio/mp3',
-                        contextInfo: {
-                                externalAdReply: {
-                                        title: 'ꜱᴀᴅᴇᴇꜱʜᴀ ᴛʜᴀʀᴜᴍɪɴ',
-                                        body: 'Lααɾα-ᴍᴅ ✻',
-                                        mediaType: 1,
-                                        sourceUrl: 'https://github.com/sadiyamin',
-                                        thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
-                                        renderLargerThumbnail: false,
-                                        showAdAttribution: true
-                                }
-                            }
-                        }, { quoted: mek });
       
       const messageID = sentMsg.key.id; // Save the message ID for later reference
 
