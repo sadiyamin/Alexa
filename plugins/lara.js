@@ -982,12 +982,12 @@ await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-da
 
       const sentMsg = await conn.sendMessage(from,{image: {url: `https://i.ibb.co/7rzBcxq/20241127-140559.jpg`},caption: online,
         contextInfo: {
-                mentionedJid: ['94717775628@s.whatsapp.net'], // specify mentioned JID(s) if any
+                mentionedJid: ['94779062397@s.whatsapp.net'], // specify mentioned JID(s) if any
                 groupMentions: [],
                 forwardingScore: 1,
-                isForwarded: true,
+                isForwarded: false,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '0363192254044294@newsletter',
+                    newsletterJid: '120363299978149557@newsletter',
                     newsletterName: "LARA",
                     serverMessageId: 999
                 },
