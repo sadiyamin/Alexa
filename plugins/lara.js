@@ -969,16 +969,27 @@ https://m.youtube.com/channel/UC7473CyG_w74rHZl-uQA64g
 
       const sentMsg = await conn.sendMessage(from,{image: {url: `https://i.ibb.co/7rzBcxq/20241127-140559.jpg`},caption: online,
         contextInfo: {
-                mentionedJid: ['94779062397@s.whatsapp.net'], // specify mentioned JID(s) if any
+                mentionedJid: ['94717775628@s.whatsapp.net'], // specify mentioned JID(s) if any
                 groupMentions: [],
                 forwardingScore: 999,
                 isForwarded: false,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363299978149557@newsletter',
-                    newsletterName: "Lααɾα-ᴍᴅ ✻",
+                    newsletterName: "LARA 𝐌𝐃",
                     serverMessageId: 999
-                }}},{quoted: mek});
-                await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3`},mimetype: 'audio/mp3', ptt: true,
+                },
+                externalAdReply: {
+                    title: 'LARA 𝐌𝐃',
+                    body: 'LARA 𝐌𝐃',
+                    mediaType: 1,
+                    sourceUrl: "https://github.com/sadiyamin",
+                    thumbnailUrl: 'https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg', // This should match the image URL provided above
+                    renderLargerThumbnail: false,
+                    showAdAttribution: true
+                }
+            }
+          });
+                await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3`},mimetype: 'audio/mp3',
                         contextInfo: {
                                 externalAdReply: {
                                         title: 'ꜱᴀᴅᴇᴇꜱʜᴀ ᴛʜᴀʀᴜᴍɪɴ',
