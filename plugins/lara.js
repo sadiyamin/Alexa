@@ -966,13 +966,13 @@ https://m.youtube.com/channel/UC7473CyG_w74rHZl-uQA64g
 
 > Lααɾα-ᴍᴅ ✻
 `
-await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3`},mimetype: 'audio/mpeg',
+await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3`},mimetype: 'audio/mpeg',ptt: true,
         contextInfo: {
                 externalAdReply: {
                         title: 'ꜱᴀᴅᴇᴇꜱʜᴀ ᴛʜᴀʀᴜᴍɪɴ',
                         body: 'Lααɾα-ᴍᴅ ✻',
                         mediaType: 1,
-                        sourceUrl: 'https://github.com/sadiyamin',
+                        sourceUrl: "https://github.com/sadiyamin",
                         thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
                         renderLargerThumbnail: true,
                         showAdAttribution: true
@@ -987,13 +987,13 @@ await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-da
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363299978149557@newsletter',
-                    newsletterName: "LARA 𝐌𝐃",
+                    newsletterJid: '0363192254044294@newsletter',
+                    newsletterName: "LARA",
                     serverMessageId: 999
                 },
                 externalAdReply: {
-                    title: 'LARA 𝐌𝐃',
-                    body: 'LARA 𝐌𝐃',
+                    title: 'LARA MD',
+                    body: 'LARA MD',
                     mediaType: 1,
                     sourceUrl: "https://github.com/sadiyamin",
                     thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
