@@ -987,9 +987,9 @@ await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-da
                 forwardingScore: 1,
                 isForwarded: false,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363299978149557@newsletter',
+                    newsletterJid: '120363192254044294@newsletter',
                     newsletterName: "LARA",
-                    serverMessageId: 999
+                    serverMessageId: 1
                 },
                 externalAdReply: {
                     title: 'LARA MD',
