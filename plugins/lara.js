@@ -972,21 +972,22 @@ https://m.youtube.com/channel/UC7473CyG_w74rHZl-uQA64g
                 mentionedJid: ['94779062397@s.whatsapp.net'], // specify mentioned JID(s) if any
                 groupMentions: [],
                 forwardingScore: 999,
-                isForwarded: true,
+                isForwarded: false,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '0363192254044294@newsletter',
+                    newsletterJid: '120363299978149557@newsletter',
                     newsletterName: "Lααɾα-ᴍᴅ ✻",
                     serverMessageId: 999
                 }}},{quoted: mek});
                 await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/alive.mp3`},mimetype: 'audio/mp3', ptt: true,
                         contextInfo: {
-                                mentionedJid: [],
                                 externalAdReply: {
-                                    title: 'ꜱᴀᴅᴇᴇꜱʜᴀ ᴛʜᴀʀᴜᴍɪɴ',
-                                    body: 'Lααɾα-ᴍᴅ ✻',
-                                    mediaType: 1,
-                                    sourceUrl: 'https://github.com/sadiyamin',
-                                    thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg'
+                                        title: 'ꜱᴀᴅᴇᴇꜱʜᴀ ᴛʜᴀʀᴜᴍɪɴ',
+                                        body: 'Lααɾα-ᴍᴅ ✻',
+                                        mediaType: 1,
+                                        sourceUrl: 'https://github.com/sadiyamin',
+                                        thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
+                                        renderLargerThumbnail: false,
+                                        showAdAttribution: true
                                 }
                             }
                         }, { quoted: mek });
