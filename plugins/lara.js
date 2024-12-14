@@ -973,22 +973,22 @@ await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-da
                         body: 'Lααɾα-ᴍᴅ ✻',
                         mediaType: 1,
                         sourceUrl: "https://github.com/sadiyamin",
-                        thumbnailUrl: 'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/sadeesha.jpg', // This should match the image URL provided above
+                        thumbnailUrl: '', // This should match the image URL provided above
                         renderLargerThumbnail: true,
                         showAdAttribution: true
                 }
             }
         }, { quoted: mek });
 
-      const sentMsg = await conn.sendMessage(from,{image: {url: `https://i.ibb.co/7rzBcxq/20241127-140559.jpg`},caption: online,
+      const sentMsg = await conn.sendMessage(from,{image: {url: ``},caption: online,
         contextInfo: {
                 mentionedJid: ['94779062397@s.whatsapp.net'], // specify mentioned JID(s) if any
                 groupMentions: [],
                 forwardingScore: 1,
-                isForwarded: false,
+                isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363192254044294@newsletter',
-                    newsletterName: "LARA",
+                    newsletterName: "Lααɾα-ᴍᴅ ✻",
                     serverMessageId: 1
                 },
                 externalAdReply: {
