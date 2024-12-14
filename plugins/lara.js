@@ -973,7 +973,7 @@ await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-da
                         body: 'Lααɾα-ᴍᴅ ✻',
                         mediaType: 1,
                         sourceUrl: "https://github.com/sadiyamin",
-                        thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
+                        thumbnailUrl: 'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/sadeesha.jpg', // This should match the image URL provided above
                         renderLargerThumbnail: true,
                         showAdAttribution: true
                 }
@@ -996,7 +996,7 @@ await conn.sendMessage(from,{audio: {url: `https://github.com/sadiyamin/alexa-da
                     body: 'LARA MD',
                     mediaType: 1,
                     sourceUrl: "https://github.com/sadiyamin",
-                    thumbnailUrl: 'https://i.ibb.co/7rzBcxq/20241127-140559.jpg', // This should match the image URL provided above
+                    thumbnailUrl: 'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/sadeesha.jpg', // This should match the image URL provided above
                     renderLargerThumbnail: true,
                     showAdAttribution: true
                 }
