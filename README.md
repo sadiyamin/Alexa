@@ -76,15 +76,15 @@
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 <br>
 <h3>SEVER ➌</h3>
 <div align="center">
-<button><tr><a href="https://express-pairing-code2-1.onrender.com/">🌸 SESSION_ID 🌸 ➌</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ➌</a></tr></button>
 </div>
 <br>
 
@@ -93,7 +93,7 @@
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
+<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
