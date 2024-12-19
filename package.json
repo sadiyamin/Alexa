@@ -9,7 +9,7 @@
     "restart": "pm2 restart lara"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.6.0",
+    "@whiskeysockets/baileys": "6.7.9",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
@@ -31,6 +31,7 @@
     "child_process":"1.0.2",
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
-    "mrnima-moviedl":"1.0.0"
+    "mrnima-moviedl":"1.0.0",
+    "mongoose":"8.9.1"
   }
 }
