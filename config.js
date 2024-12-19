@@ -15,5 +15,5 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",    
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",    
-ANTI_MASSEGE_SEEN:process.env.OUTO_MASSEGE_SEEN
+ANTI_MASSEGE_SEEN:process.env.OUTO_MASSEGE_SEEN || "true",
 };
